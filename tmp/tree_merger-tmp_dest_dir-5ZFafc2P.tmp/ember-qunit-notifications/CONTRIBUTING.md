@@ -1,1 +1,0 @@
-/Users/patocallaghan/dev/hack/addon-config-test/tmp/custom_static_compiler-tmp_dest_dir-wu9cgI9J.tmp/ember-qunit-notifications/CONTRIBUTING.md

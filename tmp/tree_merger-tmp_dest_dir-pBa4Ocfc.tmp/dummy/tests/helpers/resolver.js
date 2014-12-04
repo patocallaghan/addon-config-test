@@ -1,1 +1,0 @@
-/Users/patocallaghan/dev/hack/addon-config-test/tmp/esnext_filter-tmp_dest_dir-9fJpmGrZ.tmp/dummy/tests/helpers/resolver.js

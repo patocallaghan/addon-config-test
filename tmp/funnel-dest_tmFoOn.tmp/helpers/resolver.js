@@ -1,1 +1,0 @@
-/Users/patocallaghan/dev/hack/addon-config-test/tests/helpers/resolver.js
