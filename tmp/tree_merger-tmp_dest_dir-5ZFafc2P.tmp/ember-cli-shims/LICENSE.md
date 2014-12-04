@@ -1,0 +1,1 @@
+/Users/patocallaghan/dev/hack/addon-config-test/tmp/custom_static_compiler-tmp_dest_dir-y1qGg4pn.tmp/ember-cli-shims/LICENSE.md

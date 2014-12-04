@@ -1,0 +1,1 @@
+/Users/patocallaghan/dev/hack/addon-config-test/tmp/custom_replace-tmp_dest_dir-bvVR0V6h.tmp/app-suffix.js

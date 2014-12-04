@@ -1,0 +1,1 @@
+/Users/patocallaghan/dev/hack/addon-config-test/tmp/tree_merger-tmp_dest_dir-Gs2YL8YG.tmp/components/test-component.js

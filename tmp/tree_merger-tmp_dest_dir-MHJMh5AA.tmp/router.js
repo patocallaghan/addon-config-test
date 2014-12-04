@@ -1,0 +1,1 @@
+/Users/patocallaghan/dev/hack/addon-config-test/tests/dummy/app/router.js

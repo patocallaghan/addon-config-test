@@ -1,0 +1,1 @@
+/Users/patocallaghan/dev/hack/addon-config-test/tmp/custom_static_compiler-tmp_dest_dir-J5R5fuUZ.tmp/dummy/tests/router.jshint.js
